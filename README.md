@@ -1,6 +1,6 @@
-﻿# Getting Started with Create React App
+﻿# Zombie Project Backend
 
-This is the back end of the zombie project. 
+This is the back end of the zombie project. Using restful API communicate with frontend side.
 
 ## Available Scripts
 
